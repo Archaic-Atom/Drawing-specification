@@ -8,6 +8,12 @@ The software used was matlab, version 2023a.
 Modify the file path read and then run the xxx.m file using matlab. We put some .txt files in ./example to work with.
 
 ## Example files for code generation
-<img src="./example/sar_histogram_area.png" width="360" height="300">
+<center>
+    <img src="./example/img/draw_line.png" width="600" height="300">
+    <div>draw_line.m<div>
+<center>
 
-<img src="./example/line.png" width="600" height="300">
+<center>
+    <img src="./example/img/histogram.png" width="300" height="300">
+    <div>histogram.m<div>
+<center>
